@@ -1,0 +1,6 @@
+*.pyc
+*.out
+IOC
+Light
+__pycache__/
+roomLight/.vscode
